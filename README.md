@@ -10,3 +10,6 @@ The PlotPrice.py script uses bs4, requests, and matplotlib to create a plot of a
  \n Get historical stock price data
  \n Get other data from stock quote: volume, level2 data
  \n Print stock ladder w/ Greeks
+
+
+Learn to format text file
